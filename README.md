@@ -10,6 +10,6 @@ Using AudioSerial
 AudioSerial is composed of :
 
 - AudioSerial.java : a java class to develop Android applications talking to an Arduino board
-- AudioSerial.h & AudioSerial.h : an Arduino Library to create Arduino sketches to receive  data from a smartphone
+- AudioSerial.h & AudioSerial.cpp : an Arduino Library to create Arduino sketches to receive  data from a smartphone
 
 
