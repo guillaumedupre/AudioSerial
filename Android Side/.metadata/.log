@@ -1,0 +1,27 @@
+!SESSION 2013-04-27 15:31:51.292 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/guillaume/Projects/AudioSerial/Android Side
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-27 15:32:03.408
+!MESSAGE System property http.proxyHost is not set but should be kuzh.polytechnique.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-27 15:32:03.415
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-27 15:32:03.416
+!MESSAGE System property https.proxyHost is not set but should be kuzh.polytechnique.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-27 15:32:03.416
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-27 15:32:03.418
+!MESSAGE System property https.proxyHost is not set but should be kuzh.polytechnique.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-27 15:32:03.418
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.ui 4 4 2013-04-27 15:33:51.733
+!MESSAGE Invalid preference page path: XML Syntax

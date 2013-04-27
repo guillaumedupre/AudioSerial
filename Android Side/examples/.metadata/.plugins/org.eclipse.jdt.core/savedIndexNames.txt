@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/guillaume/Projects/AudioSerial/Android Side/examples/.metadata/.plugins/org.eclipse.jdt.core
+817802756.index
+920190336.index
+4158111069.index
